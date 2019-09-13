@@ -26,20 +26,6 @@ export default {
       name: 'Contact',
       link: 'https://www.mugabimwanje.com/'
     },
-    {
-      name: ',
-      link: ''
-    },
-    {
-      name: '',
-      link: '',
-      target: ''
-    },
-    {
-      name: '',
-      link: '',
-      target: ''
-    }
   ],
   hero: {
     theme: 'none' // options: mist, light, dark
