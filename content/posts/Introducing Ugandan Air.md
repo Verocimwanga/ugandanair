@@ -1,8 +1,8 @@
 ---
 title: Built For Speed
-subtitle: Awake is Built to Be Blazing Fast
+subtitle: Welcome to Ugandan Air
 category:
-  - About Awake
+  - About Ugandan Air
 author: M. Mwanje
 date: 12-September-2019
 featureImage: /uploads/
