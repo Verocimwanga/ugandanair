@@ -12,7 +12,7 @@ export default {
   siteName: 'Ugandan Air',
   tagline: 'showing you Africa',
   featureImage: 'feature image1.jpg',
-  logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
+  logo: 'logo.png', 
   googleAnalytics: {
     on: true,
     id: process.env.GOOGLE_ANALYTICS_ID
