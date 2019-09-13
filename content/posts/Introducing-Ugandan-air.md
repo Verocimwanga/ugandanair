@@ -1,5 +1,5 @@
 ---
-title: Built For Speed
+title: Introducing Ugandan Air
 subtitle: Welcome to Ugandan Air
 category:
   - About Ugandan Air
