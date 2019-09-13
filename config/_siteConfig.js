@@ -24,21 +24,21 @@ export default {
     },
     {
       name: 'Contact',
-      link: '/contact'
+      link: 'https://www.mugabimwanje.com/'
     },
     {
-      name: 'Categories',
-      link: '/categories'
+      name: ',
+      link: ''
     },
     {
-      name: 'Github Repo',
-      link: 'https://github.com/danielkellyio/awake-template',
-      target: '_blank'
+      name: '',
+      link: '',
+      target: ''
     },
     {
-      name: 'Awake+ Premium',
-      link: 'http://awake-premium-lp.danielkelly.io/',
-      target: '_blank'
+      name: '',
+      link: '',
+      target: ''
     }
   ],
   hero: {
